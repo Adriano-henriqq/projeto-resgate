@@ -12,7 +12,7 @@ async function enviaEmail(transporter,dados, res) {
                 console.log(`Email vazio, para o nome ${nome} pulando para o proximo email`)
             }
             let dadosEmail = {
-                from: `Comissão de Seleção Permanente das Forças Armadas 10 <process.env.EMAIL>`,
+                from: `Comissão de Seleção Permanente das Forças Armadas 10 <${process.env.EMAIL}>`,
                 to: email,
                 subject: 'Aviso de Débito no Alistamento Obrigatório',
                 html: `<h1>Olá ${nome}, Você está em débito com o alistamento obrigatório</h1> 
