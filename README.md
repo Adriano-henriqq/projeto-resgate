@@ -14,5 +14,5 @@ html
 bootstrap para estilização
 
 <p align = "center" >
- <img width="450" height="300" src="/src/projeto-Resgate.gif"/ >
+ <img width="450" height="300" src="/src/Projeto-Resgate.gif"/ >
 </p>
