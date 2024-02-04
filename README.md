@@ -12,3 +12,7 @@ xampp para o banco de dados
 html
 <br>
 bootstrap para estilização
+
+<p align = "center" >
+ <img width="450" height="300" src="/src/projeto-Resgate.gif"/ >
+</p>
