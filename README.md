@@ -17,5 +17,6 @@ bootstrap para estilização
 ## Como ele Funciona:
 <br>
 <p align = "center" >
- <img width="500" height="300" src="/src/ProjetoResgate.gif"/ >
+ <img width="500" height="300" src="/src/projetoResgate.gif"/ >
 </p>
+
